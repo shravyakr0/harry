@@ -1,4 +1,4 @@
-# Harry 🧙 — Slack Bot
+# Harry — Slack Bot
 
 A Slack bot built with Node.js and [Slack Bolt](https://slack.dev/bolt-js/) (Socket Mode), made for the [Hack Club Stardance](https://stardance.hackclub.com/missions/slack-bot) "Make a Slack Bot" mission.
 
